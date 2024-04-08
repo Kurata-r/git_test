@@ -1,4 +1,4 @@
 SELECT
-    hoge
+    hoge.hogehoge
 FROM
     TEST;
